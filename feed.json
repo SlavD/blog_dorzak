@@ -1,0 +1,27 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "Beyond the Demo",
+    "description": "",
+    "home_page_url": "https://blog.dorzak.eu",
+    "feed_url": "https://blog.dorzak.eu/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "Slawomir Dorzak"
+    },
+    "items": [
+        {
+            "id": "https://blog.dorzak.eu/test/",
+            "url": "https://blog.dorzak.eu/test/",
+            "title": "Test",
+            "summary": "This is a test page",
+            "content_html": "\n  <p>\n    This is a test page\n  </p>",
+            "author": {
+                "name": "Slawomir Dorzak"
+            },
+            "tags": [
+            ],
+            "date_published": "2026-10-13T21:43:21+01:00",
+            "date_modified": "2026-10-13T21:43:21+01:00"
+        }
+    ]
+}

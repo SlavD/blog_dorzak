@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
+    <title>Beyond the Demo</title>
+    <link href="https://blog.dorzak.eu/feed.xml" rel="self" />
+    <link href="https://blog.dorzak.eu" />
+    <updated>2026-10-13T21:43:21+01:00</updated>
+    <author>
+        <name>Slawomir Dorzak</name>
+    </author>
+    <id>https://blog.dorzak.eu</id>
+
+    <entry>
+        <title>Test</title>
+        <author>
+            <name>Slawomir Dorzak</name>
+        </author>
+        <link href="https://blog.dorzak.eu/test/"/>
+        <id>https://blog.dorzak.eu/test/</id>
+
+        <updated>2026-10-13T21:43:21+01:00</updated>
+            <summary type="html">
+                <![CDATA[
+                    This is a test page
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                
+  <p>
+    This is a test page
+  </p>
+            ]]>
+        </content>
+    </entry>
+</feed>
